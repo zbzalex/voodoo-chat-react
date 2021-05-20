@@ -1,0 +1,27 @@
+.message {
+  margin-bottom: 1px;
+}
+
+.message-time {
+  cursor: pointer;
+}
+
+.message-nick {
+  padding: 0 5px;
+  cursor: pointer;
+  text-decoration: underline;
+  font-weight: 900;
+}
+
+.message-my > .message-text {
+  background: #e2ecda;
+  color: #000000;
+}
+
+.message-me {
+  background: #dadada;
+}
+
+.message-announcement > .message-text {
+  background: #dadada;
+}

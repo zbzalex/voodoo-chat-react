@@ -1,0 +1,20 @@
+.ChatToolbar {
+  background: #fec329;
+  height: 30px;
+  display: flex;
+  align-items: center;
+}
+
+.ChatToolbar__Item {
+  height: 30px;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+}
+
+.ChatToolbar__Item:hover {
+  background: rgba(255, 255, 255, .2);
+}

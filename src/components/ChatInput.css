@@ -1,0 +1,13 @@
+.ChatInput {
+  /* background: linear-gradient(to bottom, #9a9d8e, #e2d76c); */
+  background: #bad462;
+  padding: 10px;
+  display: flex;
+  grid-column-gap: 10px;
+}
+
+.ChatInput__Buttons {
+  display: flex;
+  padding: 0 10px;
+  grid-column-gap: 10px;
+}

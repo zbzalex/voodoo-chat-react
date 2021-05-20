@@ -1,0 +1,23 @@
+.ChatUser {
+  background: #f6f6f6;
+  padding: 2px 5px;
+  display: flex;
+  align-items: center;
+}
+
+.ChatUser__Col {
+  padding: 0 2px;
+}
+
+.ChatUser__Col-clickable {
+  cursor: pointer;
+}
+
+.ChatUser__Col-nick {
+  cursor: pointer;
+  margin-left: 5px;
+  text-decoration: underline;
+}
+.ChatUser-nick:hover {
+  text-decoration: underline;
+}

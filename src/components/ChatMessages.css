@@ -1,0 +1,6 @@
+.ChatMessages {
+  background: #ffffff;
+  padding: 5px;
+  overflow-y: auto;
+  height: 100%;
+}
